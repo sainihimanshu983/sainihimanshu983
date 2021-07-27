@@ -50,6 +50,32 @@
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=42a8fd&color=4484f1)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=ea854b&color=ea854b) -->
 
+# About Me
+
+[![](https://img.shields.io/badge/GitHub-sainihimanshu983-success?style=for-the-badge)](https://github.com/sainihimanshu983)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainihimanshu983&show_icons=true&layout=compact&langs_count=10&theme=dark)
+
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sainihimanshu983&count_private=true&show_icons=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sainihimanshu983&theme=dark)
+
+
+![Sample Flask App](https://github-readme-stats.vercel.app/api/pin?username=sainihimanshu983&repo=sample-app-flask&title_color=fff&icon_color=faf9f9&text_color=9f9f9f&bg_color=151515)
+![Dot Net Static Hosting](https://github-readme-stats.vercel.app/api/pin?username=sainihimanshu983&repo=dotnetstatichosting&title_color=fff&icon_color=faf9f9&text_color=9f9f9f&bg_color=151515)
+![Charts](https://github-readme-stats.vercel.app/api/pin?username=sainihimanshu983&repo=charts&title_color=fff&icon_color=faf9f9&text_color=9f9f9f&bg_color=151515)
+![Profile](https://github-readme-stats.vercel.app/api/pin?username=sainihimanshu983&repo=sainihimanshu983&title_color=fff&icon_color=faf9f9&text_color=9f9f9f&bg_color=151515)
+
+
+Senior Engineer at Nagarro with expertise in Kubernetes on all platforms (Azure, AWS, GCP, Openshift, Rancher, bare metal), terraform, helm and containers(docker based microservices). Coming from a development background, I understand the applications deeply and implement secure infrastructure in optimized fashion. Best practices are what I aspire to shine at along with in-depth knowledge of tasks I perform. I am a Certified Microsoft Professional for Azure, excelling in AKS in particular. I am interested in contributing to Open Source community, please reach out to me in case I can be of help and I shall devote time as per my availability to learn something new.
+
+## Previous Experience
+
+I am a Software Engineer at Unisys with work experience of almost 3 years, mostly in Java and JavaScript. Working as Lead in a cloud project which revolves around secure containers(managed Kubernetes) on managed cloud platforms(Azure, AWS, GCP, bare-metal k8s). I have prior experience and good understanding of web development, application security and system programming. Skilled in advanced Java, reactive programming and responsive UI development. Interested in high performance reactive and responsive software development with asynchronous architecture.
+
+I have worked in advanced Vert.X, Java, JS, Angular, Python(Django), NodeJS, ES4X, helm, kubernetes, docker, JSP, Liferay (6.2CE and 7.2CE), C Sharp, have hands on with ReactJS, React Native, MongoDB, blockchain<hyper-ledger and etherium>, SQL Server 2016, MariaDB, Oracle, IDE development VS Code, VS IDE and Eclipse. Have lead research two ideas and written whitepapers for same. Linux Foundation certified in Kubernetes, Stanford University certified in machine learning; Language agnostic and technology focused, seeking learning opportunities.
+  
+## Skills
 ![](https://img.shields.io/badge/-Windows-informational?style=for-the-badge&logo=windows&logoColor=0078D6&color=F5F5F5) 
 ![](https://img.shields.io/badge/-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=E95420&color=F5F5F5)
 ![](https://img.shields.io/badge/-Alpine-informational?style=for-the-badge&logo=alpinelinux&logoColor=0D597F&color=F5F5F5)
@@ -79,28 +105,3 @@
 ![](https://img.shields.io/badge/-Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=0078D4&color=D8F7FD)
 ![](https://img.shields.io/badge/-AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=FF160B&color=FFEED9)
 
----
-# About Me
-
-[![](https://img.shields.io/badge/GitHub-sainihimanshu983-success?style=for-the-badge)](https://github.com/sainihimanshu983)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainihimanshu983&show_icons=true&layout=compact&langs_count=10&theme=dark)
-
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sainihimanshu983&count_private=true&show_icons=true&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sainihimanshu983&theme=dark)
-
-
-![Sample Flask App](https://github-readme-stats.vercel.app/api/pin?username=sainihimanshu983&repo=sample-app-flask&title_color=fff&icon_color=faf9f9&text_color=9f9f9f&bg_color=151515)
-![Dot Net Static Hosting](https://github-readme-stats.vercel.app/api/pin?username=sainihimanshu983&repo=dotnetstatichosting&title_color=fff&icon_color=faf9f9&text_color=9f9f9f&bg_color=151515)
-![Charts](https://github-readme-stats.vercel.app/api/pin?username=sainihimanshu983&repo=charts&title_color=fff&icon_color=faf9f9&text_color=9f9f9f&bg_color=151515)
-![Profile](https://github-readme-stats.vercel.app/api/pin?username=sainihimanshu983&repo=sainihimanshu983&title_color=fff&icon_color=faf9f9&text_color=9f9f9f&bg_color=151515)
-
-
-Senior Engineer at Nagarro with expertise in Kubernetes on all platforms (Azure, AWS, GCP, Openshift, Rancher, bare metal), terraform, helm and containers(docker based microservices). Coming from a development background, I understand the applications deeply and implement secure infrastructure in optimized fashion. Best practices are what I aspire to shine at along with in-depth knowledge of tasks I perform. I am a Certified Microsoft Professional for Azure, excelling in AKS in particular. I am interested in contributing to Open Source community, please reach out to me in case I can be of help and I shall devote time as per my availability to learn something new.
-
-## Previous Experience
-
-I am a Software Engineer at Unisys with work experience of almost 3 years, mostly in Java and JavaScript. Working as Lead in a cloud project which revolves around secure containers(managed Kubernetes) on managed cloud platforms(Azure, AWS, GCP, bare-metal k8s). I have prior experience and good understanding of web development, application security and system programming. Skilled in advanced Java, reactive programming and responsive UI development. Interested in high performance reactive and responsive software development with asynchronous architecture.
-
-I have worked in advanced Vert.X, Java, JS, Angular, Python(Django), NodeJS, ES4X, helm, kubernetes, docker, JSP, Liferay (6.2CE and 7.2CE), C Sharp, have hands on with ReactJS, React Native, MongoDB, blockchain<hyper-ledger and etherium>, SQL Server 2016, MariaDB, Oracle, IDE development VS Code, VS IDE and Eclipse. Have lead research two ideas and written whitepapers for same. Linux Foundation certified in Kubernetes, Stanford University certified in machine learning; Language agnostic and technology focused, seeking learning opportunities.
